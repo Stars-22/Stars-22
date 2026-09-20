@@ -59,8 +59,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Stars-22&show_icons=true&theme=dark&hide_border=true&locale=cn&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stars-22&layout=compact&theme=dark&hide_border=true&locale=cn&langs_count=8" />
+<img height="165" src="https://github-stats.mintimate.cn/api?username=Stars-22&show_icons=true&theme=dark&hide_border=true&locale=cn" />
+<img height="165" src="https://github-stats.mintimate.cn/api/top-langs?username=Stars-22&layout=compact&theme=dark&hide_border=true&locale=cn&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com?user=Stars-22&theme=dark&hide_border=true&locale=zh_Hans" />
 
@@ -155,8 +155,8 @@ Focused on **C++ backend and high-performance systems**. I start from architectu
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Stars-22&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stars-22&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-stats.mintimate.cn/api?username=Stars-22&show_icons=true&theme=dark&hide_border=true" />
+<img height="165" src="https://github-stats.mintimate.cn/api/top-langs?username=Stars-22&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com?user=Stars-22&theme=dark&hide_border=true" />
 
